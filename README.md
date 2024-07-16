@@ -78,6 +78,3 @@ We welcome contributions to enhance the Planet AR experience. To contribute:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to customize this README file as per your project's specific requirements and details.
